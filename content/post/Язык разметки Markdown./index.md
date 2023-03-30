@@ -22,7 +22,7 @@ featured: false
 # Featured image
 # Place an image named `1.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [Грустная собачка](https://memesmix.net/character/grustnaya-sobaka-smotrit-v-okno)'
+  caption: 'Image credit: [Маркдаун](https://ru.wikipedia.org/wiki/Markdown)'
   focal_point: ''
   placement: 2
   preview_only: false
